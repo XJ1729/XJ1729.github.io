@@ -13,7 +13,7 @@ document.querySelector('#app').innerHTML = `
       <h1>Kathleen Chen</h1>
 
       <p class="subtitle">
-        Web Developer • Designer • Creator
+        Computer Science and Physics @ University of California, Santa Barbara
       </p>
 
       <div class="buttons">
@@ -31,8 +31,8 @@ document.querySelector('#app').innerHTML = `
       <h2>About Me</h2>
 
       <p>
-        Write a short bio here. Talk about what you build,
-        technologies you like, and what you're learning.
+        Currently working on parser verification in Lean and building a personal website. <br>
+        Experienced in Python, Java, C++, JS, and functional programming. 
       </p>
     </section>
 
