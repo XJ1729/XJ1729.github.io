@@ -10,7 +10,7 @@
       <h1>Kathleen Chen</h1>
 
       <p class="subtitle">
-        Computer Science and Physics @ University of California, Santa Barbara
+        Computer Science & Physics @ University of California, Santa Barbara
       </p>
 
       <div class="buttons">
@@ -28,7 +28,7 @@
       <h2>About Me</h2>
 
       <p>
-        Currently working on parser verification in Lean and building a personal website. <br>
+        Currently working on parser verification in Lean & building my personal website. <br><br>
         Experienced in Python, Java, C++, JS, and functional programming. 
       </p>
     </section>
@@ -38,20 +38,43 @@
 
       <div class="project-grid">
         <article class="card">
-          <h3>Project One</h3>
-          <p>Short description of your project.</p>
+          <h3>ERSP Hardekopf 2025-26</h3>
+          <p>LL1 parser verification in Lean following the 2020 Zippy LL(1) parsing paper.</p>
         </article>
 
         <article class="card">
-          <h3>Project Two</h3>
-          <p>Another project description.</p>
+          <h3>SB Hacks 2026 - Quakeproof</h3>
+          <p>Worked on earthquake API and frontend development.</p>
         </article>
 
         <article class="card">
-          <h3>Project Three</h3>
-          <p>Something cool you built.</p>
+          <h3>Ongoing</h3>
+          <p>To be announced.</p>
         </article>
       </div>
     </section>
+
+    <section class="contact">
+      <h2>Contact Me</h2>
+
+      <p>
+        I'm open to internship opportunities and collaborations. Feel free to reach out!
+      </p>
+
+
+      <div class="contact-links">
+        <a href="mailto:chenk1729@gmail.com">
+          Email
+        </a>
+
+        <a href="https://linkedin.com/in/yourprofile" target="_blank">
+          LinkedIn
+        </a>
+
+        <a href="https://github.com/yourusername" target="_blank">
+          GitHub
+        </a>
+    </div>
+  </section>
   </main>
 `;
